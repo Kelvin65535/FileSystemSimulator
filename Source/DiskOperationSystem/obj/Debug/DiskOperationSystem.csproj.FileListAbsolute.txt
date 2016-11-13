@@ -1,0 +1,34 @@
+c:\users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.exe.config
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.exe
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.pdb
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.Form1.resources
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.Properties.Resources.resources
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.csproj.GenerateResource.Cache
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.exe
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.pdb
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.FormInputDirName.resources
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.FormShowFileText.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.exe.config
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.exe
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.pdb
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.exe
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.pdb
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.Form1.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.FormInputDirName.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.FormShowFileText.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.csproj.GenerateResource.Cache
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.AboutBox.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.AboutBox.resources
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.exe.manifest
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.application
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.exe.manifest
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.application
+C:\Users\Kelvin\Desktop\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.FormInputFileName.resources
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.csprojResolveAssemblyReference.cache
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.FormInputFileName.resources
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.exe.manifest
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\bin\Debug\DiskOperationSystem.application
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.exe.manifest
+C:\Users\kelvi\documents\visual studio 2015\Projects\DiskOperationSystem\DiskOperationSystem\obj\Debug\DiskOperationSystem.application
